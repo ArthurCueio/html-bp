@@ -18,5 +18,12 @@
   },
   "devDependencies": {
     "jest": "^26.6.0"
+  },
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/ArthurCueio/html-bp/"
+  },
+  "bugs": {
+    "url": "https://github.com/ArthurCueio/html-bp/issues"
   }
 }
