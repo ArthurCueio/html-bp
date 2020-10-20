@@ -4,7 +4,7 @@
   "description": "A static HTML CSS JS boilerplate generator",
   "main": "index.js",
   "scripts": {
-    "test": "jest --watch"
+    "test": "jest --watch --coverage"
   },
   "keywords": [
     "boilerplate",
