@@ -1,0 +1,16 @@
+{
+  "name": "html-bp",
+  "version": "1.0.0",
+  "description": "A static HTML CSS JS boilerplate generator",
+  "main": "index.js",
+  "keywords": [
+    "boilerplate",
+    "generator",
+    "HTML"
+  ],
+  "author": "Arthur Coelho <arthurcoelho@pm.me>",
+  "license": "MIT",
+  "bin": {
+    "html-bp": "index.js"
+  }
+}
